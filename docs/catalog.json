@@ -1,0 +1,31 @@
+{
+  "vendor": "ES Developer",
+  "hardware": "ES32Lab",
+  "updated_at": "2025-08-11T13:00:00Z",
+  "apps": [
+    {
+      "slug": "irrigacao",
+      "name": "Irrigação",
+      "type": "application",
+      "channel": "stable",
+      "board": "esp32s3",
+      "paid": false,
+      "latest_manifest": "https://esdeveloperbr.github.io/es32lab-firmware/apps/irrigacao/latest.json",
+      "description": "Controle de irrigação por zonas com calendário semanal.",
+      "icon": "https://esdeveloperbr.github.io/es32lab-firmware/assets/irrigacao.png"
+    },
+    {
+      "slug": "piscina-ondas",
+      "name": "Piscina de Ondas",
+      "type": "application",
+      "channel": "stable",
+      "board": "esp32s3",
+      "paid": true,
+      "price": "R$ 129,00",
+      "purchase_url": "https://sualoja.com/p/piscina-ondas",
+      "latest_manifest": "https://esdeveloperbr.github.io/es32lab-firmware/apps/piscina-ondas/latest.json",
+      "description": "Sequenciador de bombas e perfis de onda.",
+      "icon": "https://esdeveloperbr.github.io/es32lab-firmware/assets/piscina.png"
+    }
+  ]
+}
