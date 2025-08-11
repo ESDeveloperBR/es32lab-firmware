@@ -1,12 +1,12 @@
 {
   "app": "piscina-ondas",
-  "version": "0.6.1",
-  "released_at": "2025-08-11T00:00:00Z",
+  "version": "0.5.6",
+  "released_at": "2025-08-08T00:00:00Z",
   "board": "esp32",
-  "model": "nodemcu-32s"
-  "bin_url": "https://api.seudominio.com/download/piscina-ondas?v=1.0.0",
-  "bin_size": 0,
-  "sha256": "TBD",
-  "release_notes": "Versão inicial — binário entregue após verificação de licença.",
+  "model": "nodemcu-32s",
+  "bin_url": "https://github.com/ESDeveloperBR/es32lab-firmware/releases/download/piscina-ondas-v0.5.6/es32lab-piscina-ondas-nodemcu32s-v0.5.6.bin",
+  "bin_size": 901120,
+  "sha256": "COLE_AQUI_O_HASH_SHA256",
+  "release_notes": "Versão 0.5.6 – ajustes iniciais Piscina de Ondas.",
   "forced": false
 }
