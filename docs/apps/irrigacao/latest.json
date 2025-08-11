@@ -1,0 +1,11 @@
+{
+  "app": "irrigacao",
+  "version": "0.0.0",
+  "released_at": "2025-08-11T00:00:00Z",
+  "board": "nodemcu-32s",
+  "bin_url": "",
+  "bin_size": 0,
+  "sha256": "",
+  "release_notes": "Placeholder até publicar a primeira release.",
+  "forced": false
+}
