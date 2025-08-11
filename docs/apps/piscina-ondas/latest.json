@@ -1,0 +1,11 @@
+{
+  "app": "piscina-ondas",
+  "version": "1.0.0",
+  "released_at": "2025-08-11T00:00:00Z",
+  "board": "nodemcu-32s",
+  "bin_url": "https://api.seudominio.com/download/piscina-ondas?v=1.0.0",
+  "bin_size": 0,
+  "sha256": "TBD",
+  "release_notes": "Versão inicial — binário entregue após verificação de licença.",
+  "forced": false
+}
