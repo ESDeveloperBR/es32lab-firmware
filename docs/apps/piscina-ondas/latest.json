@@ -1,12 +1,15 @@
 {
+  "success": true,
   "app": "piscina-ondas",
-  "version": "0.5.6",
-  "released_at": "2025-08-08T00:00:00Z",
+  "version": "0.6.2",
+  "released_at": "2025-08-12T23:18:00Z",
   "board": "esp32",
-  "model": "nodemcu-32s",
-  "bin_url": "https://github.com/ESDeveloperBR/es32lab-firmware/releases/download/piscina-ondas-v0.5.6/es32lab-piscina-ondas-nodemcu32s-v0.5.6.bin",
-  "bin_size": 1097232,
-  "sha256": "D3EF5AF4E50A0B6EBD73E31836F0D4FA2AAD9B274ED8573A76F3015AB7B50B28",
-  "release_notes": "Versão 0.5.6 – ajustes iniciais Piscina de Ondas.",
+  "bin_url": "https://github.com/ESDeveloperBR/es32lab-firmware/releases/download/piscina-ondas-v0.6.2/es32lab-piscina-onda0_6_2-firmware.bin",
+  "bin_size": 1300192,
+  "bin_sha256": "92704819f50bedaa1510f30128d3a494d0ba40a7733c6489cb1f96e77a517c13",
+  "data_url": "https://github.com/ESDeveloperBR/es32lab-firmware/releases/download/piscina-ondas-v0.6.2/es32lab-piscina-onda0_6_2-littlefs.bin",
+  "data_size": 1441792,
+  "data_sha256": "6e8c19d64c6614705668134a175730ba12e3778aab05a18bc27dc37c736ccaeb",
+  "release_notes": "Versão 0.6.2 – Com a correção do bug de conexão com o Wi-Fi, agora o firmware deve se conectar corretamente à rede Wi-Fi configurada. Além disso, foram feitas melhorias na estabilidade e no desempenho geral do sistema.",
   "forced": false
 }
