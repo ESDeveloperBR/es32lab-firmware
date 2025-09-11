@@ -4,9 +4,9 @@
   "released": "2025-09-04T18:27:00Z",
   "board": "ES32Lab",
   "firmware_url": "https://github.com/ESDeveloperBR/es32lab-firmware/releases/download/piscina-ondas-v0.9.31/es32lab-piscina-onda0_9_31-firmware.bin",
-  "firmware_sha256": "sha256:2ffa5fa007b27384e454fd3b84fdb3ecae6ad007bd1cc78cce93f9c43c6dda26",
+  "firmware_sha256": "2ffa5fa007b27384e454fd3b84fdb3ecae6ad007bd1cc78cce93f9c43c6dda26",
   "data_url": "https://github.com/ESDeveloperBR/es32lab-firmware/releases/download/piscina-ondas-v0.9.31/es32lab-piscina-onda0_9_31-littlefs.bin",
-  "data_sha256": "sha256:90270518aa50de17d4087ca4f3b25a3d15e894a45061fb817998b2aaccdfb018",
+  "data_sha256": "90270518aa50de17d4087ca4f3b25a3d15e894a45061fb817998b2aaccdfb018",
   "release_notes": "Nesta versão, foram corrigidas as interfaces de cadastro de programas e de pulsos, além da inclusão de diversos inputs, agora cadastráveis e editáveis nas configurações de hardware. A nova interface de configuração de programas também permite a associação de inputs aos programas registrados.",
   "forced": false
 }
