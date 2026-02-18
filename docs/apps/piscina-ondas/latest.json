@@ -1,6 +1,6 @@
 {
   "app": "piscina-ondas",
-  "version": "0.9.35b",
+  "version": "0.9.36",
   "released": "2026-02-18T14:07:00Z",
   "board": "ES32Lab",
   "firmware_url": "https://github.com/ESDeveloperBR/es32lab-firmware/releases/download/piscina-ondas-v0.9.35/es32lab-piscina-onda0_9_35-firmware.bin",
